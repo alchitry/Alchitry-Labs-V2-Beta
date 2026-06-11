@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/kotlin/main/
+/build/classes/kotlin/test/
+/.idea/
+/output/
+/secrets.properties
+/conveyor-local.conf
+/conveyor-local-beta.conf
+*.log
+*.bak
+*.tcl
+/.kotlin/
